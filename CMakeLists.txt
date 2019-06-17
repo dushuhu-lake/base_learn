@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 3.10)
 project(base_learn)
 
 set(CMAKE_CXX_STANDARD 11)
 set(HEADFILE myArray/myArray.h baseCpp/floatInmem.h baseCpp/pointAndreference.h baseCpp/bigIntMul.h myArray/myArraytest.h)
-set(SOURCE main.cpp myArray/myArray.cpp templateTest/templateTest.cpp templateTest/templateTest.h)
+set(SOURCE main.cpp myArray/myArray.cpp templateTest/templateTest.cpp templateTest/templateTest.h baseCpp/arrayMeth.h)
 add_executable(base_learn ${SOURCE} ${HEADFILE})
