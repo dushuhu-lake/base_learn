@@ -6,10 +6,13 @@
 #include "algorithmCode/bigIntMul.h"
 #include "baseCpp/avoid_dump_delete.h"
 #include "mystring/mystringtest.h"
+#include "baseCpp/myalloc.h"
+#include "baseCpp/placementNew.h"
 #include <string>
 
 
+
 int main() {
-    mystringtest();
+    placementNewTest();
     return 0;
 }
