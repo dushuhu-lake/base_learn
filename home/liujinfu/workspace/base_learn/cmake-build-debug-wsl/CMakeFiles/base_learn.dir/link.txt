@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/base_learn.dir/main.cpp.o CMakeFiles/base_learn.dir/myArray/myArray.cpp.o CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.o CMakeFiles/base_learn.dir/mystring/mystring.cpp.o  -o base_learn 

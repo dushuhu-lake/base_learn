@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug"/>
+				<Option working_dir="C:/Users/89674/CLionProjects/base_learn/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug"/>
+				<Option working_dir="C:/Users/89674/CLionProjects/base_learn/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="base_learn">
-				<Option output="C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/base_learn.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug"/>
+				<Option output="C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/base_learn.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/89674/CLionProjects/base_learn/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 base_learn"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 base_learn"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="base_learn/fast">
-				<Option output="C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/base_learn.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug"/>
+				<Option output="C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/base_learn.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/89674/CLionProjects/base_learn/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,69 +63,120 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 base_learn/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 base_learn/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug"/>
+				<Option working_dir="C:/Users/89674/CLionProjects/base_learn/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/algorithmCode/bigIntMul.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/arrayAspram.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/algorithmCode/jpegZ.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/biTreealg.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/baseCpp/arrayMeth.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/bigIntMul.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/baseCpp/avoid_dump_delete.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/findMax.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/baseCpp/floatInmem.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/jpegZ.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/baseCpp/pointAndreference.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/maxSub.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/main.cpp">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/sortalgori.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/myArray/myArray.cpp">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/algorithmCode/subStrss.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/myArray/myArray.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/arrayMeth.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/myArray/myArraytest.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/assert_debug.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/mystring/mystring.cpp">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/autoptr.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/mystring/mystring.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/avoid_dump_delete.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/mystring/mystringtest.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/cppThreadMutex.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/templateTest/templateTest.cpp">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/floatInmem.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/templateTest/templateTest.h">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/pointAndreference.h">
 			<Option target="base_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/89674/CLionProjects/test/base_learn/CMakeLists.txt">
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/readFile.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/roundoutNumWithArr.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/rtti.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/sharedPtr.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/strip_string.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/virtual_run_time.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/virtual_table.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/baseCpp/vitural_fun_inherit.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/main.cpp">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/myArray/myArray.cpp">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/myArray/myArray.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/myArray/myArraytest.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/mystring/mystring.cpp">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/mystring/mystring.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/mystring/mystringtest.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/templateTest/templateTest.cpp">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/templateTest/templateTest.h">
+			<Option target="base_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/89674/CLionProjects/base_learn/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/89674/CLionProjects/test/base_learn/baseCpp/readFile.h
+iostream
+-
+stdio.h
+-
+
+C:/Users/89674/CLionProjects/test/base_learn/main.cpp
+iostream
+-
+stack
+-
+baseCpp/readFile.h
+C:/Users/89674/CLionProjects/test/base_learn/baseCpp/readFile.h
+

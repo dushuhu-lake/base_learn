@@ -42,10 +42,10 @@ RM = "D:\UserProgram\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\89674\CLionProjects\test\base_learn
+CMAKE_SOURCE_DIR = C:\Users\89674\CLionProjects\base_learn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\89674\CLionProjects\base_learn\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/base_learn.dir/depend.make
@@ -58,55 +58,55 @@ include CMakeFiles/base_learn.dir/flags.make
 
 CMakeFiles/base_learn.dir/main.cpp.obj: CMakeFiles/base_learn.dir/flags.make
 CMakeFiles/base_learn.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/base_learn.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\main.cpp.obj -c C:\Users\89674\CLionProjects\test\base_learn\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/base_learn.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\main.cpp.obj -c C:\Users\89674\CLionProjects\base_learn\main.cpp
 
 CMakeFiles/base_learn.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/base_learn.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\test\base_learn\main.cpp > CMakeFiles\base_learn.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\base_learn\main.cpp > CMakeFiles\base_learn.dir\main.cpp.i
 
 CMakeFiles/base_learn.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/base_learn.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\test\base_learn\main.cpp -o CMakeFiles\base_learn.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\base_learn\main.cpp -o CMakeFiles\base_learn.dir\main.cpp.s
 
 CMakeFiles/base_learn.dir/myArray/myArray.cpp.obj: CMakeFiles/base_learn.dir/flags.make
 CMakeFiles/base_learn.dir/myArray/myArray.cpp.obj: ../myArray/myArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/base_learn.dir/myArray/myArray.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\myArray\myArray.cpp.obj -c C:\Users\89674\CLionProjects\test\base_learn\myArray\myArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/base_learn.dir/myArray/myArray.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\myArray\myArray.cpp.obj -c C:\Users\89674\CLionProjects\base_learn\myArray\myArray.cpp
 
 CMakeFiles/base_learn.dir/myArray/myArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/base_learn.dir/myArray/myArray.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\test\base_learn\myArray\myArray.cpp > CMakeFiles\base_learn.dir\myArray\myArray.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\base_learn\myArray\myArray.cpp > CMakeFiles\base_learn.dir\myArray\myArray.cpp.i
 
 CMakeFiles/base_learn.dir/myArray/myArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/base_learn.dir/myArray/myArray.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\test\base_learn\myArray\myArray.cpp -o CMakeFiles\base_learn.dir\myArray\myArray.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\base_learn\myArray\myArray.cpp -o CMakeFiles\base_learn.dir\myArray\myArray.cpp.s
 
 CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.obj: CMakeFiles/base_learn.dir/flags.make
 CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.obj: ../templateTest/templateTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\templateTest\templateTest.cpp.obj -c C:\Users\89674\CLionProjects\test\base_learn\templateTest\templateTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\templateTest\templateTest.cpp.obj -c C:\Users\89674\CLionProjects\base_learn\templateTest\templateTest.cpp
 
 CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\test\base_learn\templateTest\templateTest.cpp > CMakeFiles\base_learn.dir\templateTest\templateTest.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\base_learn\templateTest\templateTest.cpp > CMakeFiles\base_learn.dir\templateTest\templateTest.cpp.i
 
 CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\test\base_learn\templateTest\templateTest.cpp -o CMakeFiles\base_learn.dir\templateTest\templateTest.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\base_learn\templateTest\templateTest.cpp -o CMakeFiles\base_learn.dir\templateTest\templateTest.cpp.s
 
 CMakeFiles/base_learn.dir/mystring/mystring.cpp.obj: CMakeFiles/base_learn.dir/flags.make
 CMakeFiles/base_learn.dir/mystring/mystring.cpp.obj: ../mystring/mystring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/base_learn.dir/mystring/mystring.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\mystring\mystring.cpp.obj -c C:\Users\89674\CLionProjects\test\base_learn\mystring\mystring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\89674\CLionProjects\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/base_learn.dir/mystring/mystring.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\base_learn.dir\mystring\mystring.cpp.obj -c C:\Users\89674\CLionProjects\base_learn\mystring\mystring.cpp
 
 CMakeFiles/base_learn.dir/mystring/mystring.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/base_learn.dir/mystring/mystring.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\test\base_learn\mystring\mystring.cpp > CMakeFiles\base_learn.dir\mystring\mystring.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89674\CLionProjects\base_learn\mystring\mystring.cpp > CMakeFiles\base_learn.dir\mystring\mystring.cpp.i
 
 CMakeFiles/base_learn.dir/mystring/mystring.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/base_learn.dir/mystring/mystring.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\test\base_learn\mystring\mystring.cpp -o CMakeFiles\base_learn.dir\mystring\mystring.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89674\CLionProjects\base_learn\mystring\mystring.cpp -o CMakeFiles\base_learn.dir\mystring\mystring.cpp.s
 
 # Object files for target base_learn
 base_learn_OBJECTS = \
@@ -126,7 +126,7 @@ base_learn.exe: CMakeFiles/base_learn.dir/build.make
 base_learn.exe: CMakeFiles/base_learn.dir/linklibs.rsp
 base_learn.exe: CMakeFiles/base_learn.dir/objects1.rsp
 base_learn.exe: CMakeFiles/base_learn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable base_learn.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\89674\CLionProjects\base_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable base_learn.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\base_learn.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/base_learn.dir/clean:
 .PHONY : CMakeFiles/base_learn.dir/clean
 
 CMakeFiles/base_learn.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\89674\CLionProjects\test\base_learn C:\Users\89674\CLionProjects\test\base_learn C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug C:\Users\89674\CLionProjects\test\base_learn\cmake-build-debug\CMakeFiles\base_learn.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\89674\CLionProjects\base_learn C:\Users\89674\CLionProjects\base_learn C:\Users\89674\CLionProjects\base_learn\cmake-build-debug C:\Users\89674\CLionProjects\base_learn\cmake-build-debug C:\Users\89674\CLionProjects\base_learn\cmake-build-debug\CMakeFiles\base_learn.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/base_learn.dir/depend
 

@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/89674/CLionProjects/test/base_learn/main.cpp" "C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/main.cpp.obj"
-  "C:/Users/89674/CLionProjects/test/base_learn/myArray/myArray.cpp" "C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/myArray/myArray.cpp.obj"
-  "C:/Users/89674/CLionProjects/test/base_learn/mystring/mystring.cpp" "C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/mystring/mystring.cpp.obj"
-  "C:/Users/89674/CLionProjects/test/base_learn/templateTest/templateTest.cpp" "C:/Users/89674/CLionProjects/test/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.obj"
+  "C:/Users/89674/CLionProjects/base_learn/main.cpp" "C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/main.cpp.obj"
+  "C:/Users/89674/CLionProjects/base_learn/myArray/myArray.cpp" "C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/myArray/myArray.cpp.obj"
+  "C:/Users/89674/CLionProjects/base_learn/mystring/mystring.cpp" "C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/mystring/mystring.cpp.obj"
+  "C:/Users/89674/CLionProjects/base_learn/templateTest/templateTest.cpp" "C:/Users/89674/CLionProjects/base_learn/cmake-build-debug/CMakeFiles/base_learn.dir/templateTest/templateTest.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,0 +1,3 @@
+/home/liujinfu/workspace/base_learn/build/CMakeFiles/rebuild_cache.dir
+/home/liujinfu/workspace/base_learn/build/CMakeFiles/base_learn.dir
+/home/liujinfu/workspace/base_learn/build/CMakeFiles/edit_cache.dir
